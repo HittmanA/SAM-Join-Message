@@ -1,2 +1,5 @@
-## YAML Template.
----
+name: SAM-Join-Message
+main: Hittmana\SAM\MainClass
+version: 1.0.6
+api: 1.4.0
+description: SAM join message
